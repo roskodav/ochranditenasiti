@@ -4,8 +4,8 @@ Aplikace byla vytvorena jako reakce na dokumentární film [V Síťi](https://ww
 
 Aplikace je vytvořena primárně pro ochranu dětí na sociálních sítích a komunikačních platformách před sexuálními predátory.
 
-Stáhnout aplikaci
-Google Play (TBD)
+## Stáhnout aplikaci na Google Play
+(TBD)
 
 
 # Princip fungování
