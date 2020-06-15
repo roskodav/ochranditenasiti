@@ -1,6 +1,6 @@
 # Mobilní aplikace Ochraň Dítě v síti
 
-Aplikace byla vytvorena jako reakce na dokumentární film [V Síťi](https://www.csfd.cz/film/720753-v-siti/prehled/).
+Aplikace byla vytvořena jako reakce na dokumentární film [V Síťi](https://www.csfd.cz/film/720753-v-siti/prehled/).
 
 Aplikace je vytvořena primárně pro ochranu dětí na sociálních sítích a komunikačních platformách před sexuálními predátory.
 
