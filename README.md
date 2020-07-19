@@ -25,3 +25,7 @@ Vždy když aplikace vyhodnotí nevhodný obsach, odešle notifikaci (pozor na s
 
 ## Bezpečnost
 Naším cílem je respektovat soukromí všech zůčastněných a klademe si velký důraz na bezpečnost a neukládání žádných citlivých dat, včetně odesílání dat na server.
+
+## Často kladené otázky
+Kolik bude aplikace stát? **Zdarma**
+Záznam obrazovky se posílá na server? Jak je to s soukromím? **Aplikace neposílá na server záznam obrazovky. Vše se zpracovává v aplikaci offline a následně se pošle pouze notifikace.**
