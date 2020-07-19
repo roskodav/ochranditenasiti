@@ -15,7 +15,7 @@ https://www.figma.com/proto/1e3vyx6MsWjeVKlp37QWpE/Design?node-id=19%3A115&scali
 
 
 # Princip fungování
-Mobilní aplikace snímá obrazovku a vyhodnocuje nevhodný obsah (dickpick, porno, sexuální obsah, atd...). Vždy vyhodnocuje pouze spuštěné komunikační platformy jako jsou Facebook Messenger, WhatApp, Skype, Instagram, další budou postupně přibívat. Vždy jsou detekovany a kontrolovány pouze obrázky.
+Mobilní aplikace snímá obrazovku a vyhodnocuje nevhodný obsah (dickpick, porno, sexuální obsah, atd...). Vždy vyhodnocuje pouze spuštěné komunikační platformy jako jsou Facebook Messenger, WhatApp, Skype, Instagram, další budou postupně přibývat. Vždy jsou detekovany a kontrolovány pouze obrázky.
 
 
 Vždy když aplikace vyhodnotí nevhodný obsach, odešle notifikaci (pozor na server se nedostane informace o jaký obas jde, vše je maximálně anonymní) na spárované zařízení, například zařízení rodiče. V notifikaci je pouze zobrazeno upozornění, že zařízení XY obdrželo nevhodný obsah.
