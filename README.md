@@ -4,6 +4,9 @@ Aplikace byla vytvořena jako reakce na dokumentární film [V Síťi](https://w
 
 Aplikace je vytvořena primárně pro ochranu dětí na sociálních sítích a komunikačních platformách před sexuálními predátory.
 
+## Návrh aplikace
+https://www.figma.com/proto/1e3vyx6MsWjeVKlp37QWpE/Design?node-id=19%3A115&scaling=contain
+
 ## Google Play
 (TBD)
 
